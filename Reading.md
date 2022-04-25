@@ -5,9 +5,11 @@ permalink: /Reading/
 ---
 
 
-We mostly read as a break from work ... or actually, we treat reading as a way to change direction or cleanse the intellectual palate ... we try to ***speed***read *with serious, critical intention.* 
+We mostly read as a break from work ... or actually, we treat reading as a way to change direction or cleanse the intellectual palate ... we try to ***speed***read *with serious, critical intention.* ... you could say that our reading list is sort of based on what we think [Kropotkin](https://en.wikipedia.org/wiki/Peter_Kropotkin), (https://en.wikipedia.org/wiki/Murray_Bookchin) or some other proponent of [GREEN anarcho-capitalism](https://en.wikipedia.org/wiki/Green_anarchism)
 
-# Curated Reading Collections
+# Curated GREEN Anarcho-Capitalism Collections
+
+The government that governs best governs least ... except that ANY government leads to more government, so it is necessary to have perpetual revolutions that KILL [or at least emasculate] the proponents of BIGGER government rather than the good guys who are allies of RADICALLY SMALLER, therefore better government.
 
 Our aim with this listing is to never have to think about our next list of items to read/annotate ... we want to have roughly 125 good workout ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main one that we are focusing on getting right.
 
