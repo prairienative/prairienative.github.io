@@ -5,7 +5,7 @@ permalink: /Reading/
 ---
 
 
-We mostly read as a break from work ... or actually, we treat reading as a way to change direction or cleanse the intellectual palate ... we try to speedread *with serious, critical intention.* 
+We mostly read as a break from work ... or actually, we treat reading as a way to change direction or cleanse the intellectual palate ... we try to ***speed***read *with serious, critical intention.* 
 
 # Curated Reading Collections
 

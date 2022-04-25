@@ -5,13 +5,19 @@ permalink: /Enterprise/
 ---
 
 
-We follow the world of ENTERPRISE ... we are referring to enterprising developments in different realms ... early, early seed stage nanoenterprises ... government data initiatives ... scientific research, especially in nontraditional realms
+### SUSTAINABILITY First
+
+Of course, self-starters, independent non-conformists and people get things going are the heroes of prairie landscapes, as they are anywhere ... we really admire ENTERPRISE, EXCEPT that we use fire to burn down those weeds which are unsustainable. 
+
+It's a BRUTAL, cutting environment ... like a North Dakota blizzard, a townful of hillbilly gossips who've never left the County or a raging prairiefire ... but that's what ***SUSTAINABILITY First*** is about.
+
+There are enterprising developments in different realms ... early, early seed stage nanoenterprises ... maybe government data initiatives which keep government small but allow for people to exchange info ... scientific research, especially in nontraditional realms
 
 # Curated Collections of Enterprise
 
 Our aim is to have roughly curated collections in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main collection that we are focusing on.
 
-1) SQL.ag
+1) SQL.ag ... sequester C as Life
 
 2) DIFFversity
 
