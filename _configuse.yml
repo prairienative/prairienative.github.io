@@ -1,0 +1,9 @@
+# Site settings
+title: Prairie Native
+email: prairienative@gmail.com
+description: Life. Roots. Art.
+twitter_username: sql_ag
+github_username:  prairienative
+
+# Build settings
+markdown: kramdown
