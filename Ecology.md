@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Destinations
-permalink: /Destinations/
+title: Ecology
+permalink: /Ecology/
 ---
 
 

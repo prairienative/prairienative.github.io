@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reading
-permalink: /Reading/
+title: Anarcho
+permalink: /Anarcho/
 ---
 
 

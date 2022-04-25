@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Enterprise
-permalink: /Enterprise/
+title: Capitalist
+permalink: /Capitalist/
 ---
 
 
-### SUSTAINABILITY First
+### Human Ecology Requires Capitialism, but SUSTAINABILITY First
+
+*Does it have a CHANCE of being self-sustaining without massive government support?*
 
 Of course, self-starters, independent non-conformists and people get things going are the heroes of prairie landscapes, as they are anywhere ... we really admire ENTERPRISE, EXCEPT that we use fire to burn down those weeds which are unsustainable. 
 

@@ -1,19 +1,12 @@
 ---
 layout: page
-title: Art
-permalink: /Art/
+title: Podcast
+permalink: /Podcast/
 ---
 
 
-Art is first, because ***art is DIFFERENT.*** 
 
-Art really teaches us to value DIFFERENCE and why we value difference ... ART is perhaps worthy because it is just being itself ... we can APPRECIATED conflicting, antagonistic, warring forms of art.  
-
-We ***look*** at Art ... as VISUAL change in pace of work ... it's ***GRAPHICAL*** ... even if our existing graphs are not that artistic or expressive yet.
-
-To some degree we try to Art with *with something like serious, critical intention* ... but mostly, we let the art wash over us and THEN think about what moved us. 
-
-# Curated Art Collections
+# Curated Podcast Collections
 
 Our aim with this listing is to never have to think about our next list of items to explore/annotate ... we want to have roughly 125 good art exploration ideas in the hopper, to have 25 that we visit on at least once a month, to have five that we are currently touching on once a week and to have ONE main one that we are spending too much time with right now.
 
