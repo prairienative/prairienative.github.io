@@ -1,22 +1,20 @@
 ---
 layout: post
-title:  "Annotated Curated Listification Starts With Brainstorming"
+title:  "Annotated Curated Listification Is About Editing"
 date:   2022-03-01 4:30:00
 categories: template
 ---
 
+Yes, we know that this writing needs an editor. Perhaps the point of the exercise ... do develop some editing skills. ***Mostly, the writing is still raw, dissheveled, lacking a cup of coffee and certainly not yet dressed-up for work.***
+
+That's what listification is about ... EDITING ... lots of EDITING ... it's about CURATING personal [AWESOME lists](https://github.com/topics/awesome) and content collections ... which others might find useful ... but maybe not yet --**we mostly curate the lists for our future selves.**
+
+It might be best to spend some time looking at the AWESOME pattern and the community that has sprung up around the [AWESOME topic](https://github.com/topics/awesome) ... or to look how it has influenced the pattern behind GitHub's [Curated Collections](https://github.com/collections).
+
 
 # Curated Reading Collection Template
 
-To really brainstorm, we need to PUSH a bit on brainstorming ... we cannot afford to just look at the top three or five as we normally do with *googlestorming* ideation. We really need to ***PUSH.***
-
-in listification, we want to have roughly 125 pretty good ideas in the hopper. We will try to get to each of these sometime in the next 3 months, but the lower 100 are *on the bubble*. The 25 most important list items we work on at least once a month.
-
-Our top five list ... which might be closer to what everyone tends to think of as a *normal* ToDo list are those top five things that we will touch on at least once in the coming week.
-
-Of course, our focus will be one the ONE main one ... the biggie that we are really focusing on, trying to get right.
-
-1) [Newsreaders](https://github.com/topics/rss-reader?o=desc&s=forks) ... especially for pre-print archives
+1) [Newsreaders](https://github.com/topics/rss-reader?o=desc&s=forks) ... after we have a list we start really using these collections
 
 2) Classics and Classic commentary
 
